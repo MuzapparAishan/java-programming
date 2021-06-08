@@ -1,0 +1,9 @@
+package day22_String_manipulation;
+
+public class StringSubstring {
+    public static void main(String[] args) {
+        String word = "java is fun";
+        System.out.println(word.substring(0,4));
+        System.out.println(word.substring(5,7));
+    }
+}
